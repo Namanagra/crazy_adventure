@@ -38,6 +38,14 @@ To run Crazy Adventure on your local machine, follow these steps:
    git clone https://github.com/Namanagra/crazy_adventure.git
    cd crazy_adventure
 
+2. **Install Dependencies**:
+   flutter pub get
+
+3. **Run The Game**:
+   flutter run
+
+4. **Enjoy the game! 🎉**
+
 
 
 

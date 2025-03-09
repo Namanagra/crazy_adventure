@@ -39,12 +39,13 @@ To run Crazy Adventure on your local machine, follow these steps:
    cd crazy_adventure
 
 2. **Install Dependencies**:
+   ```bash
    flutter pub get
 
-3. **Run The Game**:
+4. **Run The Game**:
    flutter run
 
-4. **Enjoy the game! 🎉**
+5. **Enjoy the game! 🎉**
 
 
 

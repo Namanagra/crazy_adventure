@@ -43,9 +43,10 @@ To run Crazy Adventure on your local machine, follow these steps:
    flutter pub get
 
 4. **Run The Game**:
+   ```bash
    flutter run
 
-5. **Enjoy the game! 🎉**
+6. **Enjoy the game! 🎉**
 
 
 

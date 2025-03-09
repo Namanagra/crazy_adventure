@@ -53,7 +53,7 @@ To run Crazy Adventure on your local machine, follow these steps:
 ## 📂 Project Structure
 
 Here’s a quick overview of the project structure:
-```bash
+
 crazy_adventure/
 ├── assets/               # Contains game assets like images, sounds, and animations
 ├── lib/                  # Main source code of the game
@@ -62,12 +62,51 @@ crazy_adventure/
 │   ├── levels/           # Level designs and configurations
 │   └── widgets/          # UI components and overlays
 ├── pubspec.yaml          # Flutter project dependencies and asset configurations
-└── README.md             # This file
+└── README.md             # This file.
 
 ---
 
+## 🎯 Future Plans
 
+Crazy Adventure is a work in progress, and I have exciting plans for its future! Here’s what’s coming next:
 
+- New Levels: More challenging and creative levels will be added regularly.
+- Power-Ups: Introduce power-ups like speed boosts, invincibility, and more.
+- Enemy Variety: Add new enemies with unique behaviors.
+- Multiplayer Mode: Allow players to compete or collaborate with friends.
+- Leaderboard: Track high scores and compete with players worldwide.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! If you’d like to contribute to Crazy Adventure, feel free to open an issue or submit a pull request. Here’s how you can help:
+
+1. Report Bugs: If you find any bugs, please open an issue describing the problem.
+2. Suggest Features: Have an idea for a new feature? Let me know!
+3. Code Contributions: Fork the repository, make your changes, and submit a pull request.
+
+---
+
+## 🙏 Acknowledgments
+
+- Thanks to the Flutter and Flame communities for their amazing tools and support.
+- Inspired by classic platformer games like Mario.
+
+---
+
+## 📧 Contact
+
+If you have any questions, suggestions, or just want to say hi, feel free to reach out:
+- Email: [nancynaman2000@gmail.com]
+- GitHub: Namanagra
+
+---
+
+## Note: 
+This project is under active development. Stay tuned for updates and new features!
+
+---
 
 
 

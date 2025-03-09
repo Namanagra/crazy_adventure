@@ -4,6 +4,10 @@ Welcome to **Crazy Adventure**, a fun and exciting platformer game built using *
 
 ---
 
+![Image](https://github.com/user-attachments/assets/43686c18-4ba2-40f0-ba5b-5a6c5917ca67)
+
+---
+
 ## 🎮 About the Game
 
 Crazy Adventure is a 2D platformer where players navigate through various levels, overcoming obstacles, defeating enemies, and collecting rewards. The game is built using the **Flame** library, which provides a powerful and flexible framework for creating 2D games in Flutter.

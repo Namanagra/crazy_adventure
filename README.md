@@ -48,6 +48,27 @@ To run Crazy Adventure on your local machine, follow these steps:
 
 6. **Enjoy the game! 🎉**
 
+---
+
+## 📂 Project Structure
+
+Here’s a quick overview of the project structure:
+```bash
+crazy_adventure/
+├── assets/               # Contains game assets like images, sounds, and animations
+├── lib/                  # Main source code of the game
+│   ├── main.dart         # Entry point of the game
+│   ├── game/             # Core game logic and components
+│   ├── levels/           # Level designs and configurations
+│   └── widgets/          # UI components and overlays
+├── pubspec.yaml          # Flutter project dependencies and asset configurations
+└── README.md             # This file
+
+---
+
+
+
+
 
 
 
